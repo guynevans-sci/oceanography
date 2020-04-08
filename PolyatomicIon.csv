@@ -1,0 +1,54 @@
+Chemical Formula,Common Name,Charge,Mass_u
+NH4+,ammonium,1,18.0383
+H3O+,hydronium,1,19.0227
+Hg22+,mercury(I),2,200.59
+H2PO3-,dihydrogen phosphite,-1,80.9866
+H2PO4-,dihydrogen phosphate,-1,96.9856
+HCO3-,hydrogen carbonate,-1,61.0156
+HSO3-,hydrogen sulfite,-1,81.0699
+HSO4-,hydrogen sulfate,-1,97.0689
+NO2-,nitrite,-1,448.1863866
+NO3-,nitrate,-1,672.2795799
+OH-,hydroxide,-1,17.0069
+CH3COO-,acetate,-1,59.0431
+CrO2-,chromite,-1,83.9941
+CN-,cyanide,-1,26.0174
+CNO-,cyanate,-1,42.0164
+CNS-,thiocyanate,-1,58.0824
+O2-,superoxide,-1,31.998
+MnO4-,permanganate,-1,118.934
+ClO-,hypochlorite,-1,51.452
+ClO2-,chlorite,-1,67.451
+ClO3-,chlorate,-1,83.45
+ClO4-,perchlorate,-1,99.449
+BrO-,hypobromite,-1,95.903
+BrO2-,bromite,-1,111.902
+BrO3-,bromate,-1,127.901
+BrO4-,perbromate,-1,143.9
+IO-,hypoiodite,-1,142.9035
+IO2-,iodite,-1,158.9025
+IO3-,iodate,-1,174.9015
+IO4-,periodate,-1,190.9005
+AlO2-,aluminate,-1,58.9795
+N3-,azide,-1,42.0201
+HPO32-,hydrogen phosphite,-2,79.9787
+HPO42-,hydrogen phosphate,-2,95.9777
+CO32-,carbonate,-2,60.0077
+SO32-,sulfite,-2,80.062
+SO42-,sulfate,-2,96.061
+S2O32-,thiosulfate,-2,112.127
+SiO32-,silicate,-2,76.0825
+C22-,carbide,-2,24.0214
+C2O42-,oxalate,-2,88.0174
+CrO42-,chromate,-2,115.9921
+Cr2O72-,dichromate,-2,215.9852
+C4H4O62-,tartrate,-2,148.0684
+MoO42-,molybdate,-2,159.936
+O22-,peroxide,-2,31.998
+S22-,disulfide,-2,64.13
+PO33-,phosphite,-3,78.9708
+PO43-,phosphate,-3,94.9698
+PO23-,hypophosphite,-3,62.9718
+AsO33-,arsenite,-3,122.9186
+AsO43-,arsenate,-3,138.9176
+P2O74-,pyrophosphate,-4,173.9406

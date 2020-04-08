@@ -1,0 +1,9 @@
+Ingredient Name,Chemical Formula,chloride,sodium,sulfate,magnesium,calcium,potassium,bicarbonate
+Sodium Chloride,NaCl,1,1,0,0,0,0,0
+Calcium Chloride,CaCl2,2,0,0,0,1,0,0
+Potassium Chloride,KCl,1,0,0,0,0,1,0
+Calcium Carbonate,CaCO3,0,0,0,0,1,0,1
+Sodium Sulfate,Na2SO4,0,2,1,0,0,0,0
+Magnesium Sulfate,MgSO4,0,0,1,1,0,0,0
+Magnesium Chloride,MgCl2,2,0,0,1,0,0,0
+Sodium Bicarbonate,NaHCO3,0,1,0,0,0,0,1
