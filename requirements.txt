@@ -1,2 +1,7 @@
 matplotlib
 pandas
+math
+datetime
+numpy
+scipy
+scipy.fftpack
